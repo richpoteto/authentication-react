@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This repository is an authentication app made by react
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
